@@ -30,7 +30,7 @@ This project was built as part of a technical assignment and demonstrates full C
 ## 📸 Screenshots
 
 ### 🏠 Task List (Dashboard)
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](master/dashboard.png)
 
 ### ➕ Create Task Form
 ![Create Task](screenshots/create-task-form.png)
